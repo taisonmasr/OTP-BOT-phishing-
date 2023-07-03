@@ -34,6 +34,6 @@ Telegram OTP BOT features 🤖 (Bypass all verification codes)
   7 - تجاوز جميع اكواد التحقق 👑
   
 
-#Bot:- t.me/otp_tracking_bot    
+Bot:- `t.me/otp_tracking_bot`
 
-#Support:- t.me/Spoofservice0
+Support:- t.me/Spoofservice0`
